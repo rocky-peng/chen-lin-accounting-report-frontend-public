@@ -9,11 +9,5 @@
         }
       ]
     }
-  ],
-  "rewrites": [
-    {
-      "source": "/backend/(.*)",
-      "destination": "http://101.35.218.107:9088/backend/$1"
-    }
   ]
 }
